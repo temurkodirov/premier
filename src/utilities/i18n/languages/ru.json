@@ -1,0 +1,30 @@
+{
+  "navbar-contact-us": "Связаться с нами",
+  "navbar-careers": "Карьера",
+  "navbar-products": "Продукты",
+  "call-us": "Позвоните нам",
+  "email-us": "Напишите нам",
+  "contact-via-telegram": "Связаться через Telegram",
+  "address-store": "Расположение магазина",
+  "tashkent-branch": "Ташкентский филиал",
+  "andijan-branch": "Ташкентский филиал",
+  "search-product": "Поиск товаров...",
+  "home-navbar": "Главная страница",
+  "products": "Товары",
+  "services": "Услуги",
+  "blog": "Блоги",
+  "catalog": "Каталог",
+
+  "home-banner-title-solutions-for-your-business": "РЕШЕНИЯ ДЛЯ ВАШЕГО БИЗНЕСА",
+  "home-banner-providing-technology-for-smart-it-solution": "Предоставление технологий Для умных IT-решений",
+  "home-banner-title-third-little": "Быстро оптимизируйте революционные сети с помощью технически обоснованных результатов. Авторитетно интегрируйте установленную базовую веб-готовность. Быстро максимизируйте превосходный процесс.",
+
+  "validations": {
+    "required": "Пожалуйста, заполните это поле!",
+    "minLength": "Введите не менее {min} символов!",
+    "maxLength": "Пожалуйста, введите более короткое значение!",
+    "email": "Адрес электронной почты недействителен!",
+    "validUsername": "Неверный адрес электронной почты или номер телефона!",
+    "validPhoneNumber": "Неверный номер телефона!"
+  }
+}

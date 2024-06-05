@@ -1,0 +1,16 @@
+.modal-location .modal-location-item i {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block;
+    margin-bottom: 15px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border-radius: 3px;
+    line-height: 40px;
+    background:var(--main-color);
+}
+
+.x-container {
+    margin: 0 50px !important;
+}

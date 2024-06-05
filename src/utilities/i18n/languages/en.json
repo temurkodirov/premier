@@ -1,0 +1,20 @@
+{
+  "navbar-contact-us": "Contanct us",
+  "navbar-careers": "Careers",
+  "navbar-products": "Products",
+  "call-us": "Call Us",
+  "email-us": "Email Us",
+
+  "home-banner-title-solutions-for-your-business": "SOLUTIONS FOR YOUR BUSINESS",
+  "home-banner-providing-technology-for-smart-it-solution": "Providing Technology For Smart IT Solution",
+  "home-banner-title-third-little": "Rapidiously streamline revolutionary networks with technically sound deliverables. Authoritatively integrate installed base web-readiness. Quickly maximize superior process.",
+
+  "validations": {
+    "required": "Please fill out this field!",
+    "minLength": "Please enter at least {min} characters!",
+    "maxLength": "Please enter a shorter value!",
+    "email": "The email address  is not valid!",
+    "validUsername": "Invalid email address or phone number!",
+    "validPhoneNumber": "Invalid phone number!"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "navbar-contact-us": "Biz bilan bog'lanish",
+  "navbar-careers": "Karyera",
+  "navbar-products": "Mahsulotlar",
+  "call-us": "Bizga qo'ngiroq qiling",
+  "email-us": "Email yo'llang",
+  "contact-via-telegram": "Telegram orqali bog'lanish",
+  "address-store": "Do'kon manzillari",
+  "tashkent-branch": "Toshkent filiali",
+  "andijan-branch": "Andijon filiali",
+  "search-product": "Mahsulot izlash...",
+  "home-navbar": "Bosh sahifa",
+  "products": "Mahsulotlar",
+  "services": "Xizmatlar",
+  "blog": "Bloglar",
+  "catalog": "Katalog",
+  "home-banner-title-solutions-for-your-business": "BIZNESINGIZ UCHUN YECHIMLAR",
+  "home-banner-providing-technology-for-smart-it-solution": "Texnologiyani ta'minlash Smart IT yechim uchun",
+  "home-banner-title-third-little": "Texnik jihatdan ishonchli natijalar bilan inqilobiy tarmoqlarni tez tartibga soling. O'rnatilgan bazaviy veb-tayyorlikni vakolatli ravishda birlashtiring. Yuqori jarayonni tezda maksimal darajada oshiring.",
+
+  "validations": {
+    "required": "Iltimos, ushbu qatorni to'ldiring!",
+    "minLength": "Kamida {min} ta belgi kiriting!",
+    "maxLength": "Qisqaroq qiymat kiriting!",
+    "email": "Elektron pochta manzili noto'g'ri!",
+    "validUsername": "Elektron pochta manzili yoki telefon raqami noto‘g‘ri!",
+    "validPhoneNumber": "Telefon raqami noto‘g‘ri!"
+  }
+}
